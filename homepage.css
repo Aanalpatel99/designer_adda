@@ -1,0 +1,20 @@
+*
+{
+	margin:0;
+	padding:0;
+	}
+	.wapper{
+		width:50px;
+		margin:20px;
+		
+		}
+		.nav-area{
+			float:right;
+			margin: 20px 30px 20px 30px;
+		.nav-area li{
+			display:inline block;
+			}
+			.nav-area{
+				color:"blue";
+				padding:5px 20px;
+				}
